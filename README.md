@@ -10,11 +10,11 @@ Installation
 ------------
 
  * Download and extract this zip.
- * Clone this repository to `user/plugins`.
+ * Clone this repository to `user/plugins` and go into it.
  * If not installed, install composer.
  * Install KLogger with this command: `composer require katzgrau/klogger:dev-master`.
- * Upload contents of unzipped folder to `klogger` folder.
  * Open `config.php` to edit and check log dir is writable.
+ * Active plugin in Yourls admin page.
 
  License
  -------
